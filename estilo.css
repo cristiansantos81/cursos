@@ -1,0 +1,155 @@
+
+
+
+#um {
+    color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+#dois{
+    color: sandybrown;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+#tres {
+    color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  
+}
+
+#quatro {
+    color: sandybrown;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    
+}
+
+#cinco {
+    color: salmon;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+   
+}
+
+#seis {
+    color: sandybrown;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+    
+}
+
+#sete {
+    color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+    
+}
+
+.Viva {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+.Bem {
+    color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+.Dança {
+    background-color: salmon;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 30px;
+    opacity: 80%;
+}
+
+.Instrumentos {
+    background-color:sandybrown;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 15px;
+    opacity: 80%;
+}
+
+.Teatro {
+    background-color: salmon;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 30px;
+    opacity: 80%;
+}
+
+.Canto {
+    background-color:sandybrown;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 15px;
+    opacity: 80%;
+}
+
+.Cinema {
+    background-color: salmon;
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 30px;
+    opacity: 80%;
+}
+
+.rodape {
+    color: violet;
+    opacity: 80%;
+}
+
+.feito {
+    color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Contato {
+    background-color:  sandybrown;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    opacity: 80%;
+}
+
+.Satisfação {
+    background-color: sandybrown;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    opacity: 80%;
+
+}
+
+.Equipe {
+    color: Green;
+    margin: 10px;
+    
+    
+}
+
+.Veja {
+    color:  green;
+    margin: 10px;
+    
+    
+}
+
+body {
+    background-image: url(imagens/artee.jpg);
+}
