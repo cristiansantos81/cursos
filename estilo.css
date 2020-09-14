@@ -119,6 +119,7 @@
 .feito {
     color: salmon;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
 .Contato {
@@ -148,8 +149,11 @@
     margin: 10px;
     
     
+    
 }
 
 body {
     background-image: url(imagens/artee.jpg);
+    background-attachment: fixed;
 }
+
